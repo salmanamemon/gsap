@@ -1,7 +1,7 @@
 # THE DEVELOPER DUDE 
 GSAP ScrollTrigger tutorial from Beginner to hero
 
-# GSAP Boilerplate
+### GSAP
 
 ### Requirements
 
