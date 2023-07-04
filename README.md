@@ -16,4 +16,5 @@ GSAP ScrollTrigger tutorial from Beginner to hero
 ### How to proceed
 
 1.  Prepare a coffee
-1.  Start coding!
+2.  Start coding!
+ 
