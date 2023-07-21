@@ -1,0 +1,21 @@
+/* RESET */
+body{
+    margin: 0;
+}
+
+.div1, .div2{
+    height: 100vh;
+}
+.div1{
+    background-color: peru;
+}
+.div2{
+    background-color: #fff;
+}
+.square{
+    width: 100px;
+    height: 200px;
+    background-color: brown;
+    /* visibility: hidden;
+    opacity: 0; */
+}
